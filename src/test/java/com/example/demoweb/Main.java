@@ -6,5 +6,6 @@ public class Main {
             Main.sA=1;
             int b;
             int c;
+            int d;
     }
 }
