@@ -7,5 +7,6 @@ public class Main {
             int b;
             int c;
             int d;
+            int e;
     }
 }
